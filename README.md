@@ -26,7 +26,7 @@ To build:
 
 ## Preview
 <div align="center">
-  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/user_location.png">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/user_location.png" width="330" height="450">
   <p>First the weather for the user's location (based on their IP) is displayed.</p>
   
   <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/location_menu.png" width="220" height="300">
