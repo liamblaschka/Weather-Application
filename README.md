@@ -26,5 +26,5 @@ How to use
 
 Create a build directory, in terminal run cmake .., then run make, then in bin run ./weather
 
-![alt text](https://github.com/liamblaschka/Weather-Application/blob/images/user_location.png)
-![alt text](https://github.com/liamblaschka/Weather-Application/blob/images/select_location.png)
+![alt text](https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/user_location.png)
+![alt text](https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/select_location.png)
