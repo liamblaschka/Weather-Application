@@ -6,7 +6,7 @@ This is a C++ SFML Weather Application providing weather information for the use
 Features:
 - Current weather
 - 7 day forecast
-- User location: view weather information of the user's location
+- User location: view weather information of the user's location.
 - Saved locations: save up to five locations of Australian capital cities.
 
 ## Instructions
