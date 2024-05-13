@@ -19,7 +19,7 @@ Features:
 To use:
 - After running, the weather for the user's location is displayed, click on the displayed location to enter the location menu.
 - Within the location menu is the location list.
-- Locations can be added to the list by clicking the add button, where up to five Austrlian capital cities can be chosen.
+- Locations can be added to the list by clicking the add button, where up to five Australian capital cities can be chosen.
 - Clicking a location within the list will display the weather information for that locaiton.
 - Locations can be deleted by pressing the bin icon button.
 - Locations can be reordered by dragging and dropping them in the desired position.
