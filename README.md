@@ -17,14 +17,38 @@ Technlogies Used
 - APIs: [openweathermap api]
 - Libraries:[SFML, curl, nlohmann json]
 
-How to use
-- to compile type make release into terminal then to run type ./bin/release
-- answer question in terminal asking if you allow the appliation to use your location
-- see weather forcast on main page and if wanting to chance the location or save locations click top left on the city
-- Add and delete locations to the saved locations or delete them by clicking on the bin icon and select the location not desired
+## Instructions
+To build:
+- Make a build directory and within it run 'cmake ..', then when it is finished, run 'make'
+- Navigate to the bin directory within build
+- run the 'weather' executable
 
+To use:
+- After running, the weather for the user's location is displayed, click on the displayed location to enter the location menu.
+- Within the location menu is the location list, by clicking the add button, up to five locations chosen from Austrlian capital cities can be added to the list.
+- Clicking a location within the list will display the weather information for that locaiton.
+- Locations can be deleted by pressing the bin icon button.
+- Locations can be reordered by dragging and dropping them in the desired position.
+- The location list is saved between runs of the application.
 
-Create a build directory, in terminal run cmake .., then run make, then in bin run ./weather
+## Preview images
+<div align="center">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/user_location.png">
+  <p>First the weather for the user's location (based on their IP) is displayed.</p>
+  
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/location_menu.png" width="220" height="300">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/add_locations.png" width="220" height="300">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/delete_locations.png" width="220" height="300">
+  <br>
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/reorder_locations.png" width="220" height="300">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/select_location.png" width="220" height="300">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/selected_location.png" width="220" height="300">
+  <p>
+    The location menu can be opened by clicking the currently displayed location.<br>
+    Up to five locations chosen from Australian capital cities can be added to the location list.<br>
+    Locations can be removed from the list, and reordered by dragging and dropping.<br>
+    A location can be selected by clicking on it.
+  </p>
 
-![alt text](https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/user_location.png)
-![alt text](https://github.com/liamblaschka/image-repo/blob/main/Weather-Application/select_location.png)
+  
+</div>
