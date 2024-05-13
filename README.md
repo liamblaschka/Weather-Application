@@ -3,6 +3,12 @@
 ## Description
 This is a C++ SFML Weather Application providing weather information for the user's location and the Australian capital cities. The weather information includes the current weather, as well as a 7 day forecast containing the minimum and maximum temperature, and the chance of rain for each day. This application uses the Open Weather Map API to source the real-time weather data.
 
+Skills demonstrated:
+- C++
+- Object Oriented Programming
+- SFML
+- Design of friendly user interface
+
 Features:
 - Current weather
 - 7 day forecast
