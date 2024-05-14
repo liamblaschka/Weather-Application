@@ -7,7 +7,7 @@ This is a C++ SFML Weather Application providing weather information for the use
 - C++
 - Object Oriented Programming
 - SFML
-- Design of friendly user interface
+- Friendly user interface design
 
 ### Features:
 - Current weather
