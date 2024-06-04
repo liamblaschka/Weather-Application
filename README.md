@@ -49,6 +49,4 @@ This is a C++ SFML Weather Application providing weather information for the use
     Locations can be removed from the list, and reordered by dragging and dropping.<br>
     A location can be selected by clicking on it.
   </p>
-
-  
 </div>
