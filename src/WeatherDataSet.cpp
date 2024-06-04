@@ -63,8 +63,6 @@ void WeatherDataSet::set_location(Coordinates location) {
     this->location = location;
 }
 
-// the code of the following functions (write_memory_callback() and update_location()) largely was sourced, and took contributtion
-// from these sources: https://www.youtube.com/watch?v=mJVchgjkgL8, https://www.appsloveworld.com/c/100/2/c-libcurl-get-output-into-a-string
 size_t WeatherDataSet::write_memory_callback(void *contents, size_t size, size_t nmemb, std::string *str) { // used in storing json data returned by API as string
     size_t real_size = size * nmemb;
     try {
